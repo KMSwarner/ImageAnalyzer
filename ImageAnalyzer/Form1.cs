@@ -19,7 +19,7 @@ using System.Windows.Forms;
  * Purpose: To provide an array of image analysis functions and to display the results of each function to the user.
  * 
  * Method: Program ingests an image as provided by the user through the Open File Dialog. Program then assigns
- * pertenant data, such as image width, height, and other metadata, to appropriate fields. The image is then analyzed
+ * pertinent data, such as image width, height, and other metadata, to appropriate fields. The image is then analyzed
  * for pixel color information; that data being stored in an array. The array is then put into a tree where like
  * entries are grouped for quicker access.
  * 
