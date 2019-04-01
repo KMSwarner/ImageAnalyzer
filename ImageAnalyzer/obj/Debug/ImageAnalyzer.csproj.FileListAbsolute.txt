@@ -1,0 +1,10 @@
+e:\Users\Kevin\Documents\Visual Studio 2017\Projects\ImageAnalyzer\ImageAnalyzer\obj\Debug\ImageAnalyzer.Form1.resources
+e:\Users\Kevin\Documents\Visual Studio 2017\Projects\ImageAnalyzer\ImageAnalyzer\obj\Debug\ImageAnalyzer.Properties.Resources.resources
+e:\Users\Kevin\Documents\Visual Studio 2017\Projects\ImageAnalyzer\ImageAnalyzer\obj\Debug\ImageAnalyzer.csproj.GenerateResource.cache
+e:\Users\Kevin\Documents\Visual Studio 2017\Projects\ImageAnalyzer\ImageAnalyzer\obj\Debug\ImageAnalyzer.csproj.CoreCompileInputs.cache
+e:\Users\Kevin\Documents\Visual Studio 2017\Projects\ImageAnalyzer\ImageAnalyzer\bin\Debug\ImageAnalyzer.exe.config
+e:\Users\Kevin\Documents\Visual Studio 2017\Projects\ImageAnalyzer\ImageAnalyzer\bin\Debug\ImageAnalyzer.exe
+e:\Users\Kevin\Documents\Visual Studio 2017\Projects\ImageAnalyzer\ImageAnalyzer\bin\Debug\ImageAnalyzer.pdb
+e:\Users\Kevin\Documents\Visual Studio 2017\Projects\ImageAnalyzer\ImageAnalyzer\obj\Debug\ImageAnalyzer.exe
+e:\Users\Kevin\Documents\Visual Studio 2017\Projects\ImageAnalyzer\ImageAnalyzer\obj\Debug\ImageAnalyzer.pdb
+E:\Users\Kevin\Documents\Visual Studio 2017\Projects\ImageAnalyzer\ImageAnalyzer\obj\Debug\ImageAnalyzer.csprojAssemblyReference.cache
